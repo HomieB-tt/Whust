@@ -398,9 +398,6 @@ Contributions are welcome! Please read the [AGENTS.md](AGENTS.md) for detailed g
 - [Signal Protocol](https://signal.org/docs/) - Signal Protocol documentation
 - [Noise Protocol](https://noiseprotocol.org/) - Noise Protocol framework
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
