@@ -1,11 +1,10 @@
 
 [package]
-name = "whatsapp-rust"
+name = "whust"
 version = "0.2.0"
 edition = "2024"
-authors = ["João Lucas <jlucaso@hotmail.com>"]
-license = "MIT"
-repository = "https://github.com/jlucaso1/whatsapp-rust"
+authors = ["Jeremiah Carlton <jaykaylor62@gmail.com>"]
+repository = "https://github.com/HomieB-tt/Whust"
 readme = "README.md"
 description = "Rust client for WhatsApp Web"
 

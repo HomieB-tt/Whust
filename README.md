@@ -27,7 +27,7 @@ This project is a complete Rust port of the [whatsmeow](https://github.com/tulir
 The project is organized into a Cargo workspace with three main crates:
 
 ```
-whatsapp-rust/
+whust/
 ├── wacore/                 # Platform-agnostic core library
 │   ├── binary/              # Binary protocol encoding/decoding
 │   ├── appstate/           # App state sync protocol
@@ -35,7 +35,7 @@ whatsapp-rust/
 │   ├── derive/             # Custom derive macros
 │   └── noise/              # Noise Protocol framework
 ├── waproto/                # Protocol Buffers definitions
-├── whatsapp-rust/          # Main client library
+├── whust/          # Main client library
 │   ├── src/client.rs       # Central client implementation
 │   ├── src/send.rs        # Outgoing message encryption
 │   ├── src/message.rs     # Incoming message decryption
@@ -49,7 +49,7 @@ whatsapp-rust/
 └── storages/sqlite-storage/      # SQLite persistence layer
 ```
 
-## Installation
+## Installation 
 
 Add `whatsapp-rust` to your `Cargo.toml`:
 
